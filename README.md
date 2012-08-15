@@ -19,3 +19,4 @@ And then to call the **setBlurred** method of the view/window with true or false
 
 	win.setBlurred(false); // this will UNblur the window
 ~~~
+
