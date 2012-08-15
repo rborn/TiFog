@@ -20,3 +20,7 @@ And then to call the **setBlurred** method of the view/window with true or false
 	win.setBlurred(false); // this will UNblur the window
 ~~~
 
+
+Video: http://www.youtube.com/watch?v=yD9aXRawchk
+
+PS. The module is only blurring the views, anything else is pure JS.
